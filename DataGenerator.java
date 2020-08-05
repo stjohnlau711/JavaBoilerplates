@@ -1,11 +1,9 @@
-package lau.FILECREATION;
-
 import java.io.*;
-import lau.MAIN.Analytically;
+import lau.MAIN.Analytically; //some values from another package (i.e. Analytically.Alphabet)
 
 public class DataGenerator {
 
-	public static final String DIR = "/Users/stjohnlau/eclipse-workspace/LauHW5/src/";
+	public static final String DIR = "EXAMPLEDIRECTORY"; //edit
 	
 	public static void buildIntegerFile(String fp, int count) throws IOException {
 		
