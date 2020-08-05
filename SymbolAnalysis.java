@@ -1,10 +1,8 @@
-package lau.ANALYSIS;
-
 import java.io.*;
 
 public class SymbolAnalysis {
 
-	public static final String DIR = "/Users/stjohnlau/eclipse-workspace/LauHW5/src/";
+	public static final String DIR = "EXAMPLEDIRECTORY"; //edit
 	
 	public static int characterCount(String fp) throws IOException{
 		
