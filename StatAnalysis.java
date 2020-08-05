@@ -1,10 +1,8 @@
-package lau.ANALYSIS;
-
 import java.io.*;
 
 public class StatAnalysis { 
 
-	public static final String DIR = "/Users/stjohnlau/eclipse-workspace/LauHW5/src/";
+	public static final String DIR = "EXAMPLEDIRECTORY"; //edit
 	
 	public static int countValues(String fp) throws IOException{
 		
